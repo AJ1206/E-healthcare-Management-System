@@ -1,1 +1,0 @@
-# E-healthcare Management System
