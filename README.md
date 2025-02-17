@@ -159,9 +159,6 @@ pm2 start ecosystem.config.js
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-For support and queries, please create an issue in the repository or contact the development team at support@ehealthcare.com
-
 ## Acknowledgments
 - Healthcare standards organizations
 - Open-source community
