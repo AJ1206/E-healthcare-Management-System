@@ -3,7 +3,7 @@
 ## Overview
 The E-Healthcare Management System is a comprehensive web-based application designed to streamline healthcare operations, improve patient care, and enhance administrative efficiency. This system connects patients, doctors, and healthcare administrators through a secure and user-friendly platform.
 
-## Features
+## Features.
 
 ### For Patients
 - 🏥 Online appointment scheduling
